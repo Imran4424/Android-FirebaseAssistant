@@ -18,6 +18,13 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    // Some other stuffs
+//    configurations {
+//        compile.exclude module: 'com.google.android.gms.internal.vision.zze' // This removes all other versions of `com.google.android.gms.internal.vision` if gets duplicated from all the artifacts.
+//        compile.exclude group: "junit", module: "junit"
+//    }
+    // other stuffs
+
     buildTypes {
         release {
             minifyEnabled false
