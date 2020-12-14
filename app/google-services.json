@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667470682403",
+    "project_id": "fir-assistant-60f9c",
+    "storage_bucket": "fir-assistant-60f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667470682403:android:cd0fb34c3ef3ec85e49496",
+        "android_client_info": {
+          "package_name": "com.imran.android.firebaseassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667470682403-gopa8m5qu7ahvqo64euldkgmmtkjelg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_eypfqnU4k4wJifbvyBIYM-fd5pu5Ujs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667470682403-gopa8m5qu7ahvqo64euldkgmmtkjelg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
